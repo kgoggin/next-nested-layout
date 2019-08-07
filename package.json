@@ -1,0 +1,23 @@
+{
+  "name": "with-mdx",
+  "version": "1.0.1",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@mdx-js/loader": "^1.1.6",
+    "@mdx-js/mdx": "^1.1.0",
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-mdx": "1.2.0",
+    "autoprefixer": "^9.6.1",
+    "next": "latest",
+    "next-compose-plugins": "^2.2.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "tailwindcss": "^1.1.0"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
